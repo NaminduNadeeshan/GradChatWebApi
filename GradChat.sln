@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2026
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GradChat", "GradChat\GradChat.csproj", "{558FD5BA-C68E-4D8E-8D4F-869EE65746AB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GradChat.Common", "GradChat.Common\GradChat.Common.csproj", "{D210F5EB-5208-424A-AFAF-AEC24E602EE0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GradChat.Data.Repo", "GradChat.Data.Repo\GradChat.Data.Repo.csproj", "{7BD0A24D-9FB6-49F3-855D-2CD6AA6F83F6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GradChat.DtoModel", "GradChat.DtoModel\GradChat.DtoModel.csproj", "{7C145A8D-A2E3-4C98-92E1-E78F49EF4817}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GradChat.Data.Entity", "GradChat.Data.Entity\GradChat.Data.Entity.csproj", "{922BFFF0-E895-4F0B-863F-5A2B87A42641}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GradChat.Service", "GradChat.Service\GradChat.Service.csproj", "{4C099764-55AA-4811-BB2A-A12C0AB716FC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{558FD5BA-C68E-4D8E-8D4F-869EE65746AB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{558FD5BA-C68E-4D8E-8D4F-869EE65746AB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{558FD5BA-C68E-4D8E-8D4F-869EE65746AB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{558FD5BA-C68E-4D8E-8D4F-869EE65746AB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D210F5EB-5208-424A-AFAF-AEC24E602EE0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D210F5EB-5208-424A-AFAF-AEC24E602EE0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D210F5EB-5208-424A-AFAF-AEC24E602EE0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D210F5EB-5208-424A-AFAF-AEC24E602EE0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7BD0A24D-9FB6-49F3-855D-2CD6AA6F83F6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7BD0A24D-9FB6-49F3-855D-2CD6AA6F83F6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7BD0A24D-9FB6-49F3-855D-2CD6AA6F83F6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7BD0A24D-9FB6-49F3-855D-2CD6AA6F83F6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7C145A8D-A2E3-4C98-92E1-E78F49EF4817}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7C145A8D-A2E3-4C98-92E1-E78F49EF4817}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7C145A8D-A2E3-4C98-92E1-E78F49EF4817}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7C145A8D-A2E3-4C98-92E1-E78F49EF4817}.Release|Any CPU.Build.0 = Release|Any CPU
+		{922BFFF0-E895-4F0B-863F-5A2B87A42641}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{922BFFF0-E895-4F0B-863F-5A2B87A42641}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{922BFFF0-E895-4F0B-863F-5A2B87A42641}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{922BFFF0-E895-4F0B-863F-5A2B87A42641}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4C099764-55AA-4811-BB2A-A12C0AB716FC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4C099764-55AA-4811-BB2A-A12C0AB716FC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4C099764-55AA-4811-BB2A-A12C0AB716FC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4C099764-55AA-4811-BB2A-A12C0AB716FC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5E8ACDF3-1D0F-43BA-B740-B39E2D3B3D89}
+	EndGlobalSection
+EndGlobal
